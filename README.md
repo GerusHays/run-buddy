@@ -1,4 +1,4 @@
-# Run Buddy Inc. broken
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
